@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.Form1.resources
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.Properties.Resources.resources
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\REPASO2\REPASO2\bin\Debug\REPASO2.exe.config
+C:\Users\Juan\source\repos\REPASO2\REPASO2\bin\Debug\REPASO2.exe
+C:\Users\Juan\source\repos\REPASO2\REPASO2\bin\Debug\REPASO2.pdb
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.exe
+C:\Users\Juan\source\repos\REPASO2\REPASO2\obj\Debug\REPASO2.pdb
